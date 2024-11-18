@@ -1,5 +1,7 @@
 # Local-Termux
 Local management of Termux
+!(TermuxControl.png)
+
 Управляйте Termux с помощью командой строки через локальную сеть в браузере
 
 введите порт (например 8080)
